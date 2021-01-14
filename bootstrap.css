@@ -1,0 +1,15 @@
+nav, h1,p {
+    font-family:'Lora', serif !important;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.25em;
+  }
+
+  ul.dropdown-menu.show
+  {
+      min-width: 4rem;
+
+  }
+  
+  
+  
